@@ -1,0 +1,32 @@
+.timkiem{
+    border-radius: 15px;
+    border: 1px solid rgb(68, 66, 66);
+   
+}
+.search{
+    border-radius: 15px;
+    border: 1px solid white;
+    background-color: white;
+    
+}
+.search:hover{
+    background-color: rgb(197, 197, 197);
+}
+.tk{
+    position: relative;
+    top: 4px;
+}
+
+.cart>svg{
+    width: 28px;
+    height: 28px;
+}
+.user>svg{
+    width: 32px;
+    height: 32px;
+}
+.muahang button{
+    width: 50px;
+    height: 20px;
+    background-color: red;
+}
